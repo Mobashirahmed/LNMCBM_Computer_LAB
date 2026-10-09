@@ -1,0 +1,32 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc voter_eligibility.c -o voter_eligibility
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\voter_eligibility    
+Enter your age
+13
+You are not eligible to vote
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\voter_eligibility
+Enter your age
+58
+You are eligible to vote
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc greatestNum.c -o greatestNum           
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\greatestNum      
+Enter three numbers for comparison
+78
+56
+14
+78 is largest
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\greatestNum
+Enter three numbers for comparison
+15
+89
+63
+89 is largest
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc divisibility.c -o divisibility  
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\divisibility
+Enter a number
+35
+35 is divisible by both
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\divisibility
+Enter a number
+13
+6422300 is divisible by neither 5 nor 7
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

@@ -1,0 +1,45 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc grade.c -o grade            
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\grade      
+Enter your grade [O, A, B, C, F]
+O
+Outstanding
+Run Succesful
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\grade
+Enter your grade [O, A, B, C, F]
+D
+Invalid Grade
+Run Succesful
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\grade
+Enter your grade [O, A, B, C, F]
+C
+Fair
+Run Succesful
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\grade
+Enter your grade [O, A, B, C, F]
+F
+Fail
+Run Succesful
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc days.c -o days                
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\days        
+Enter a number in the range [1 to 7]: 3
+WEDNESDAY
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\days
+Enter a number in the range [1 to 7]: 6
+SATURDAY
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\days
+Enter a number in the range [1 to 7]: 9
+Invalid choice
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc vowel.c -o vowel                       
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\vowel            
+Enter a letter: r
+Not vowel
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\vowel
+Enter a letter: a
+vowel
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\vowel
+Enter a letter: O
+vowel
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\vowel
+Enter a letter: L
+Not vowel
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

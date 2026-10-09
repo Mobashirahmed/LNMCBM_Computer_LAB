@@ -1,0 +1,66 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc prime.c -o prime                
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime        
+Enter a number: 7
+6422292 is not a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc prime.c -o prime
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: 7
+7 is not a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc prime.c -o prime
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime             
+Enter a number: 7
+7 is a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: 99
+99 is not a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: 13
+13 is a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: 2
+2 is a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: 1
+1 is not a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: 0
+0 is not a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prime
+Enter a number: -8
+-8 is not a prime number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc forName.c -o forName  
+forName.c: In function 'main':
+forName.c:8:5: warning: implicit declaration of function 'clrscr' [-Wimplicit-function-declaration]
+     clrscr();
+     ^~~~~~
+C:\Users\mobas\AppData\Local\Temp\cccvoz7p.o:forName.c:(.text+0xf): undefined reference to `clrscr'
+collect2.exe: error: ld returned 1 exit status
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc forName.c -o forName
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\forName 
+Enter your name: Mobashir
+Mobashir
+Mobashir
+Mobashir
+Mobashir
+Mobashir
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\forName
+Enter your name: Tina
+Tina
+Tina
+Tina
+Tina
+Tina
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc factorial.c -o factorial
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\factorial
+Enter a number: 10
+
+Factorial of 10 is 3628800
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\factorial
+Enter a number: 5
+
+Factorial of 5 is 120
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\factorial
+Enter a number: 8
+
+Factorial of 8 is 40320
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

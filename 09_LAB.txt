@@ -1,0 +1,37 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc temperature.c -o temperature
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\temperature
+Enter Fahrenheit: 98.6
+Centigrade = 37.00
+
+Enter Centigrade: 37
+Fahrenheit = 98.60
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\temperature
+Enter Fahrenheit: 212
+Centigrade = 100.00
+
+Enter Centigrade: 100
+Fahrenheit = 212.00
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\temperature
+Enter Fahrenheit: 32
+Centigrade = 0.00
+
+Enter Centigrade: 0
+Fahrenheit = 32.00
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc color.c -o color            
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\color      
+Enter color number [1 to 7]: 5
+YELLOW
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\color
+Enter color number [1 to 7]: 3
+BLUE
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\color
+Enter color number [1 to 7]: 9
+Invalid color number
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc calender.c -o calender
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\calender
+ 1       2       3       4       5       6       7
+ 8       9      10      11      12      13      14
+15      16      17      18      19      20      21
+22      23      24      25      26      27      28
+29      30
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

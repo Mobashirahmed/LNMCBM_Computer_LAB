@@ -1,0 +1,19 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc fahTocel.c -o fahTocel
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc celTofah.c -o celTofah
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\fahTocel     
+Enter temperature (in fahrenheit)
+212
+Temperature in celcius is 100.000000
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\fahTocel
+Enter temperature (in fahrenheit)
+32
+Temperature in celcius is 0.000000
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\celTofah
+Enter temperature (in celcius)
+0
+Temperature in fahrenheit is 32.000000
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\celTofah
+Enter temperature (in celcius)
+100
+Temperature in fahrenheit is 212.000000
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

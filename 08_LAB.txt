@@ -1,0 +1,61 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc userTable.c -o userTable        
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userTable    
+Enter a number: 23
+23 *  1 =  23
+23 *  2 =  46
+23 *  3 =  69
+23 *  4 =  92
+23 *  5 = 115
+23 *  6 = 138
+23 *  7 = 161
+23 *  8 = 184
+23 *  9 = 207
+23 * 10 = 230
+23 * 11 = 253
+23 * 12 = 276
+23 * 13 = 299
+23 * 14 = 322
+23 * 15 = 345
+23 * 16 = 368
+23 * 17 = 391
+23 * 18 = 414
+23 * 19 = 437
+23 * 20 = 460
+23 * 21 = 483
+23 * 22 = 506
+23 * 23 = 529
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc userTable.c -o userTable
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userTable
+Enter a number: 13
+13 *  1 =  13
+13 *  2 =  26
+13 *  3 =  39
+13 *  4 =  52
+13 *  5 =  65
+13 *  6 =  78
+13 *  7 =  91
+13 *  8 = 104
+13 *  9 = 117
+13 * 10 = 130
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userTable
+Enter a number: 67
+67 *  1 =  67
+67 *  2 = 134
+67 *  3 = 201
+67 *  4 = 268
+67 *  5 = 335
+67 *  6 = 402
+67 *  7 = 469
+67 *  8 = 536
+67 *  9 = 603
+67 * 10 = 670
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc N_average.c -o N_average
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\N_average      
+Enter the value of n: 10
+
+Average of first 10 natural number is 5.500
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\N_average
+Enter the value of n: 23
+
+Average of first 23 natural number is 12.000
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

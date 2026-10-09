@@ -1,0 +1,35 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc constant.c -o constant
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\constant
+Age = 20 Grade = B PI = 3.14
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc addInputs.c -o addInputs
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\addInputs
+Enter two numbers to add
+56
+324768
+Sum = 324824
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc prompt.c -o prompt              
+prompt.c:1:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+prompt.c: In function 'main':
+prompt.c:3:5: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+     printf("Good Day");
+     ^~~~~~
+prompt.c:3:5: warning: incompatible implicit declaration of built-in function 'printf'
+prompt.c:3:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc prompt.c -o prompt
+prompt.c:2:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ main()
+ ^~~~
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\prompt         
+Good Day
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc dataType.c -o dataType
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\dataType
+Roll no.    :265074Section     :BPercentage  :82.639999Value of PI :3.141593
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc dataType.c -o dataType
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\dataType
+Roll no.    :265074
+Section     :B
+Percentage  :82.639999
+Value of PI :3.141593
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

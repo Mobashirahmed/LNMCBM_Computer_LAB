@@ -1,0 +1,47 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc leapYear.c -o leapYear  
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\leapYear 
+Enter the year: 1900
+
+1900 ia not a leap year
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\leapYear
+Enter the year: 2000
+
+2000 is a leap year
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc sizeof.c -o sizeof                
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\sizeof  
+Size of char:   1
+Size of int:    4
+Size of long:   4
+Size of float:  4
+Size of double: 8
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc licence.c -o licence  
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\licence 
+Enter your age: 15
+
+Do you Drive (say y or n): 
+You cannot Drive
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc licence.c -o licence
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\licence
+
+Do you Drive (say y or n): y
+Enter your age: 45
+
+You can Drive
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc licence.c -o licence
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\licence
+Do you Drive (say y or n): n
+Enter your age: 32
+
+You cannot Drive
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\licence
+Do you Drive (say y or n): y
+Enter your age: 16
+
+You cannot Drive
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc licence.c -o licence
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\licence
+Do you have licence (say y or n): n
+Enter your age: 13
+
+You cannot Drive
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit
