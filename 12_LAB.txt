@@ -1,0 +1,25 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc array.c -o array        
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array    
+70
+55 60 65 70 75 80 85 90 95 100 Size of Array is 40 bytes
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc array.c -o array
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array
+70
+55 60 65 70 75 80 85 90 95 100 
+Size of Array is 40 bytes
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc charArray.c -o charArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\charArray
+O
+A E I O U 
+Size of Array is 5 bytes
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc userArray.c -o userArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userArray
+Enter the five elements of array
+13
+23
+33
+43
+53
+Printing the elements of Array
+13 23 33 43 53 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit
