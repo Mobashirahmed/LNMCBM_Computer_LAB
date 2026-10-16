@@ -1,0 +1,21 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc list_prime.c -o list_prime
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\list_prime
+List of Prime Numbers between 1 to 100
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc list_prime.c -o list_prime
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\list_prime
+Enter a number: 300
+List of Prime Numbers between 1 to 300
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\list_prime
+Enter a number: 400
+List of Prime Numbers between 1 to 400
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc goto.c -o goto            
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\goto      
+Enter a number: 9
+9 is odd
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\goto
+Enter a number: 4
+4 is even
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit
