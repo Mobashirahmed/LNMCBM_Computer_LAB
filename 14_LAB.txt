@@ -1,0 +1,31 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc userCharArray.c -o userCharArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userCharArray
+Enter five characters
+a
+h
+u
+Your characters: a 
+ h 
+ u 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc userCharArray.c -o userCharArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userCharArray
+Enter five characters
+a E i O u
+Your characters: a E i O u 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userCharArray
+Enter five characters
+A
+e
+I
+o
+U
+Your characters: A e I o U 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc sumArray.c -o sumArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\sumArray     
+Sum of array elements: 100
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc productArray.c -o productArray      
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\productArray   
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc productArray.c -o productArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\productArray                    
+Product of array elements: 3840
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit
