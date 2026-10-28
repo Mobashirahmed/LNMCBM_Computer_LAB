@@ -1,0 +1,54 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc reverse.c -o reverse          
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\reverse                    
+Enter a number: 1234
+
+It's reverse is 4321
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\reverse
+Enter a number: 3456
+
+It's reverse is 6543
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\reverse
+Enter a number: 121
+
+It's reverse is 121
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc pyramid.c -o pyramid          
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\pyramid     
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc pattern5.c -o pattern5
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\pattern5
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc userCharArray.c -o userCharArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\userCharArray
+Enter five characters
+t
+R
+o
+I
+P
+Your characters: t R o I P 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc pallindrome.c -o pallindrome    
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\pallindrome
+Enter a number: 121
+
+121 is a pallindrome
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\pallindrome
+Enter a number: 3443
+
+3443 is a pallindrome
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\pallindrome
+Enter a number: 12321
+
+12321 is a pallindrome
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\pallindrome
+Enter a number: 1234
+
+1234 is not a pallindrome
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit
