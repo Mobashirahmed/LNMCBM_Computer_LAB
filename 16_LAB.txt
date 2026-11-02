@@ -1,0 +1,28 @@
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc array.c -o array
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array             
+75
+60 65 70 75 80 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc array2.c -o array2
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array2
+Enter the index [0-4] of the element you want to access: 2
+20
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array2
+Enter the index [0-4] of the element you want to access: 4
+30
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array2              
+Enter the index [0-4] of the element you want to access: 0
+10
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc array3.c -o array3
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\array3
+Enter the elements od array
+10 15 20 25 30
+Reverse array
+30 25 20 15 10 
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> gcc sumArray.c -o sumArray
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\sumArray
+30 35 40 45 50 
+Sum of array elements: 200
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> .\sumArray
+60 65 70 75 80
+Sum of array elements: 350
+PS D:\LN Mishra collage BCA\SemesterOne\BCA-106 Lab on C\practical notes\class lab> exit

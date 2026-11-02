@@ -3,10 +3,15 @@
 
 int main()
 {
-    int arr[5] = {10, 15, 20, 25, 30};
+    // int arr[5] = {10, 15, 20, 25, 30};
     int i, sum = 0;
+    int arr[5];
     // clrscr();
 
+    for(i=0; i<5; i++)
+    {
+        scanf("%d", &arr[i]);
+    }
     for(i=0; i<5; i++)
     {
         sum += arr[i];
