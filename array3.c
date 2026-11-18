@@ -7,7 +7,7 @@ int main()
     int arr[5];
     // clrscr();
 
-    printf("Enter the elements od array\n");
+    printf("Enter the elements of array\n");
     for(i=0; i<5; i++)
     {
         scanf("%d", &arr[i]);
